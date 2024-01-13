@@ -7,28 +7,15 @@ Proficient with a range of data technologies including Python, SQL, R, Power-BI,
 
 # Social Buzz - Power BI
 
-An analysis of various types of contents ranging from text, images, videos and GIFs posted online daily.
+Content Analytics: Identifying Top Selling Online Content Through Data Analysis. An analysis of various types of contents ranging from text, images, videos and GIFs posted online daily.
 
 # Sales Analytics - MS Excel
 
 Created a sales report using excel pivot tables which will enable businesses to determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries. The reports generated will provide actionable insights and recommendations for businesses to optimize their sales strategies, enhance customer satisfaction, and maximize revenue generation.
 
-### Header 3
+# Game Sales Prediction
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+This project aims to understand the relationship between the sales of video games on the Steaming platform and the attributes which contribute to them. The analysis can give game developers and publishers an insight into what makes certain games popular and allow them to make games that will have a larger possibility to stand out in the market.
 
 #### Header 4
 
