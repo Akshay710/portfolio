@@ -5,15 +5,13 @@ layout: default
 _Data Professional with 4+ years of experience in developing and implementing data-driven solutions to complex business problems. Proven ability in collecting, cleaning, analyzing,and visualizing data to extract valuable insights and facilitate data-informed decision-making. 
 Proficient with a range of data technologies including Python, SQL, R, Power-BI, Spark, AWS. Strong interpersonal and collaborative abilities to work with stakeholders across all levels of the organization._
 
-# Header 1
+# Social Buzz - Power BI
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+An analysis of various types of contents ranging from text, images, videos and GIFs posted online daily.
 
-## Header 2
+# Sales Analytics - MS Excel
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Created a sales report using excel pivot tables which will enable businesses to determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries. The reports generated will provide actionable insights and recommendations for businesses to optimize their sales strategies, enhance customer satisfaction, and maximize revenue generation.
 
 ### Header 3
 
