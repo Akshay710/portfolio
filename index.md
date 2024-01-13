@@ -14,17 +14,17 @@ Proficient with a range of data technologies including Python, SQL, R, Power-BI,
 - Created a sales report using excel pivot tables which will enable businesses to determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries. The reports generated will provide actionable insights and recommendations for businesses to optimize their sales strategies, enhance customer satisfaction, and maximize revenue generation.
 <center><img src = "assets/img/MS excel analytics.png"/></center>
 
-
+---
 # Game Sales Prediction - Python 
 - This project aims to understand the relationship between the sales of video games on the Steaming platform and the attributes which contribute to them. The analysis can give game developers and publishers an insight into what makes certain games popular and allow them to make games that will have a larger possibility to stand out in the market.
 <center><img src = "assets/img/video game analysis.png"/></center>
 
-
+---
 # Shield Insurance 
 - The objective of this pilot project is to conduct a thorough examination of customer growth and revenue patterns at Shield Insurance Company. The project's primary emphasis lies in extracting significant observations regarding customer behavior, revenue generation, geographical distribution, and age group-based statistics. By analyzing these metrics, the project offers valuable insights to comprehend the company's performance and facilitate informed decision-making based on data
 <center><img src = "assets/img/Shield Insurance.png"/></center>
 
-
+---
 ##### Header 5
 
 1.  This is an ordered list following a header.
