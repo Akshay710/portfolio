@@ -2,10 +2,8 @@
 layout: default
 ---
 
-**-Data Analyst with 4+ years of experience in developing and implementing data-driven solutions to complex business problems.
-  -Proven ability in collecting, cleaning, analyzing, and visualizing data to extract valuable insights and facilitate data-informed        decision-making. 
-  -Proficient with a range of data technologies including Python, SQL, R, Power-BI, Spark, AWS. 
-  -Strong interpersonal and collaborative abilities to work with stakeholders across all levels of the organization.**
+**Data Analyst with 4+ years of experience in developing and implementing data-driven solutions to complex business problems. Proven ability in collecting, cleaning, analyzing,and visualizing data to extract valuable insights and facilitate data-informed decision-making. 
+Proficient with a range of data technologies including Python, SQL, R, Power-BI, Spark, AWS. Strong interpersonal and collaborative abilities to work with stakeholders across all levels of the organization.**
 
 # Header 1
 
