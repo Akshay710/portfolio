@@ -29,8 +29,4 @@ Proficient with a range of data technologies including Python, SQL, R, Power-BI,
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshay710/Shield-Insurance)
 ---
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
