@@ -9,7 +9,7 @@ Proficient with a range of data technologies including Python, SQL, R, Power-BI,
 - Content Analytics: Identifying Top Selling Online Content Through Data Analysis. An analysis of various types of contents ranging from text, images, videos and GIFs posted online daily.
 <center><img src = "assets/img/Social media analysis.png"/></center>
 
-[Github](https://github.com/Akshay710/Content-Analytics)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshay710/Content-Analytics)
 ---
 # Sales Analytics - MS Excel
 - Created a sales report using excel pivot tables which will enable businesses to determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries. The reports generated will provide actionable insights and recommendations for businesses to optimize their sales strategies, enhance customer satisfaction, and maximize revenue generation.
